@@ -1,5 +1,5 @@
-# personal-portfolio
-My first developer portfolio.
+# Personal Portfolio
+My first developer portfolio
 
 Tech stack used: 
 
